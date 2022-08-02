@@ -10,3 +10,6 @@ Let you do Kernel and user-mode dumps
 
 # EnumAllHandles 
 Let you enumerate all the handles 
+
+# ServiceExecuter
+Let you do Privilege escalation in Windows container.
